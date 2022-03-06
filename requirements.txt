@@ -14,11 +14,11 @@ debugpy @ file:///C:/ci/debugpy_1637073815078/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints==0.3
-findspark @ file:///home/conda/feedstock_root/build_artifacts/findspark_1642587609784/work
+findspark==2.0.0
 idna==2.10
 importlib-metadata @ file:///C:/ci/importlib-metadata_1638543108096/work
 ipykernel @ file:///C:/ci/ipykernel_1633545574250/work/dist/ipykernel-6.4.1-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1635944310712/work
+ipython @ file:///C:/ci/ipython_1643818321468/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 isort==5.5.4
 jedi @ file:///C:/ci/jedi_1611315808330/work
@@ -37,23 +37,25 @@ nbconvert @ file:///C:/ci/nbconvert_1624479163777/work
 nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 notebook @ file:///C:/ci/notebook_1637143794296/work
+numpy==1.22.2
 packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.1
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1637050397234/work
+prometheus-client @ file:///opt/conda/conda-bld/prometheus_client_1643788673601/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
-py4j==0.10.9.3
 pyaes==1.6.1
 pyasn1==0.4.8
 pycodestyle==2.6.0
 pycparser==2.20
+pydeequ==1.0.1
 Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
 pylint==2.6.0
 pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 pyrsistent @ file:///C:/ci/pyrsistent_1636111468851/work
-pyspark==3.2.1
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
 pywin32==302
 pywinpty==0.5.7
 pyzmq @ file:///C:/ci/pyzmq_1638435185959/work
